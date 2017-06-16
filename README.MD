@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/SERGEEVSKI/Course_work.svg?branch=master)](https://travis-ci.org/SERGEEVSKI/Course_work)
+[![Build Status](https://travis-ci.org/SERGEEVSKI/checktest.svg?branch=master)](https://travis-ci.org/SERGEEVSKI/checktest)
